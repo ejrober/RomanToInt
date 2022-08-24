@@ -1,1 +1,5 @@
 Hello GitHub.
+
+This is my solution to the Leetcode problem converting roman numerals to integers. 
+
+My solution checks the last character of the string and recursively returns the integer value of the rest of the string plus the value of the last roman numeral.
